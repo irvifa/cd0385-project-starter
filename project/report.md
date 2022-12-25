@@ -37,9 +37,9 @@ Do a more elaborate exploratory data analysis.
 
 |model|hpo1|hpo2|hpo3|score|
 |--|--|--|--|--|
-|initial|default_vals|default_vals|default_vals|1.76379|
-|add_features|default_vals|default_vals|default_vals|0.70591|
-|hpo|num_leaves: lower=26, upper=66|dropout_prob: 0.0, 0.5|num_boost_round: 100|0.47927|
+|initial|default_vals|default_vals|default_vals|1.80200|
+|add_features|default_vals|default_vals|default_vals|0.70066|
+|hpo|num_leaves: lower=26, upper=66|dropout_prob: 0.0, 0.5|num_boost_round: 100|0.48158|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
